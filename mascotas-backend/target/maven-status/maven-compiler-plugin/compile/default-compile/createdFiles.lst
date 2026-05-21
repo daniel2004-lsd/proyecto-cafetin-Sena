@@ -1,0 +1,5 @@
+com\daniel\mascotas_backend\MascotasBackendApplication.class
+com\daniel\mascotas_backend\service\MascotaService.class
+com\daniel\mascotas_backend\entity\Mascota.class
+com\daniel\mascotas_backend\controllers\MascotaController.class
+com\daniel\mascotas_backend\repository\MascotaRepository.class

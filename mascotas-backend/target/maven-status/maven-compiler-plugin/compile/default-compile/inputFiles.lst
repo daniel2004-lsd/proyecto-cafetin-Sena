@@ -1,0 +1,13 @@
+C:\Users\USUARIO\Desktop\pet-manager-backend\mascotas-backend\src\main\java\com\daniel\mascotas_backend\config\CorsConfig.java
+C:\Users\USUARIO\Desktop\pet-manager-backend\mascotas-backend\src\main\java\com\daniel\mascotas_backend\controllers\DuenoController.java
+C:\Users\USUARIO\Desktop\pet-manager-backend\mascotas-backend\src\main\java\com\daniel\mascotas_backend\controllers\MascotaController.java
+C:\Users\USUARIO\Desktop\pet-manager-backend\mascotas-backend\src\main\java\com\daniel\mascotas_backend\dto\MascotaRequest.java
+C:\Users\USUARIO\Desktop\pet-manager-backend\mascotas-backend\src\main\java\com\daniel\mascotas_backend\dto\MascotaResponseDTO.java
+C:\Users\USUARIO\Desktop\pet-manager-backend\mascotas-backend\src\main\java\com\daniel\mascotas_backend\entity\Dueno.java
+C:\Users\USUARIO\Desktop\pet-manager-backend\mascotas-backend\src\main\java\com\daniel\mascotas_backend\entity\Mascota.java
+C:\Users\USUARIO\Desktop\pet-manager-backend\mascotas-backend\src\main\java\com\daniel\mascotas_backend\MascotasBackendApplication.java
+C:\Users\USUARIO\Desktop\pet-manager-backend\mascotas-backend\src\main\java\com\daniel\mascotas_backend\repository\DuenoRepository.java
+C:\Users\USUARIO\Desktop\pet-manager-backend\mascotas-backend\src\main\java\com\daniel\mascotas_backend\repository\MascotaRepository.java
+C:\Users\USUARIO\Desktop\pet-manager-backend\mascotas-backend\src\main\java\com\daniel\mascotas_backend\service\DuenoService.java
+C:\Users\USUARIO\Desktop\pet-manager-backend\mascotas-backend\src\main\java\com\daniel\mascotas_backend\service\DuenoServiceImpl.java
+C:\Users\USUARIO\Desktop\pet-manager-backend\mascotas-backend\src\main\java\com\daniel\mascotas_backend\service\MascotaService.java
